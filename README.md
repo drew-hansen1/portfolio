@@ -13,8 +13,6 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ## 🛠️ Technologies Used
 - **HTML5** – Structure of the website
 - **CSS3** – Styling and layout
-- **JavaScript** – Interactivity and dynamic elements  
-*(Add frameworks/libraries if you used any, e.g., React, Bootstrap, Tailwind CSS)*
 
 ## 🔮 Future Improvements
 - Add **dark mode toggle** for better user experience.
